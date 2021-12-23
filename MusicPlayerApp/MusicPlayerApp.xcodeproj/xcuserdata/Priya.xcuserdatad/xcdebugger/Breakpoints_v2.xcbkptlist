@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52B8D83B-86DD-4DF2-AC13-5E60D3FEB566"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27324277-DE8A-41E8-A531-67D9E7398FCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayerApp/Controller/MusicViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3442298B-0398-4F6C-811A-181C6838A153"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayerApp/Model/MusicModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ResultsModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3442298B-0398-4F6C-811A-181C6838A153 - 6dbedb10e558355b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayerApp.ResultsModel.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;MusicPlayerApp.ResultsModel.CodingKeys&gt;"
+                  moduleName = "MusicPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Priya/Desktop/MusicPlayerApp/MusicPlayerApp/Model/MusicModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  uuid = "3442298B-0398-4F6C-811A-181C6838A153 - e083719a72ae7241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayerApp.ResultsModel.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "MusicPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Priya/Desktop/MusicPlayerApp/MusicPlayerApp/Model/MusicModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7B123A8-408C-48A2-8FD9-C70F35744567"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayerApp/Model/MusicModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(results:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7B123A8-408C-48A2-8FD9-C70F35744567 - 6dbedb10e558355b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayerApp.ResultsModel.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;MusicPlayerApp.ResultsModel.CodingKeys&gt;"
+                  moduleName = "MusicPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Priya/Desktop/MusicPlayerApp/MusicPlayerApp/Model/MusicModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  uuid = "A7B123A8-408C-48A2-8FD9-C70F35744567 - e083719a72ae7241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicPlayerApp.ResultsModel.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "MusicPlayerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Priya/Desktop/MusicPlayerApp/MusicPlayerApp/Model/MusicModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3EC9433-C259-420C-81C8-F9C8BAB0CBC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayerApp/Controller/MusicPlayerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "btnPlayClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78F099C3-535A-45C3-8D8C-16ECBA25A64C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicPlayerApp/Controller/MusicPlayerController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "btnPlayClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
